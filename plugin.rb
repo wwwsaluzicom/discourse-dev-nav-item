@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: Robin Ward
 
-register_custom_html(extraNavItem: "<li><a href='http://www.yaoguangxiao.com'>姚广孝命名</a></li>")
+register_custom_html(extraNavItem: "<li><a href='http://yaoguangxiao.com'>姚广孝命名</a></li>")
